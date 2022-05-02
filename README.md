@@ -3,5 +3,5 @@ API Gateway  Example (.NET Core)
 
 <hr/>
 
-![image](https://user-images.githubusercontent.com/60434493/166239970-298650eb-3a5f-4f1d-9ca9-bab8f9e46bf0.png)
+![image](https://user-images.githubusercontent.com/60434493/166240572-0012f8d2-7f90-4559-af81-426ac0e41172.png)
 
