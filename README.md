@@ -10,4 +10,7 @@ GatewayAPI de Query stringden "/r/id" veya "/c/id" girildiğinde ilgili API ye g
 
 ![image](https://user-images.githubusercontent.com/60434493/166241603-df12c0d0-5a70-45c5-85ab-3eff62a82d62.png)
 
+![image](https://user-images.githubusercontent.com/60434493/166241789-bb9bea26-cb89-40f7-ab6a-710a4ebb6e54.png)
+
+
 
